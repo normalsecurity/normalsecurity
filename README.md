@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Thanks for your interest in contributing to Normal Security. While things are getting set up over here, please check out normalsecurity.com to start getting ideas for how we can improve the site! 
+
 <!--
 **normalsecurity/normalsecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
